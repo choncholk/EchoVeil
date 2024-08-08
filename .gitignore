@@ -1,0 +1,61 @@
+# Sensitive files
+github_accounts.csv
+project_description.txt
+
+# Dependencies
+node_modules/
+cache/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Hardhat files
+artifacts/
+cache_hardhat/
+typechain/
+typechain-types/
+
+# Foundry files
+lib/
+broadcast/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Testing
+coverage/
+coverage.json
+.coverage_artifacts/
+.coverage_cache/
+
+# Build outputs
+dist/
+build/
+
+# ZK circuits
+circuits/build/
+circuits/keys/
+*.zkey
+*.r1cs
+*.wasm
+*.ptau
+
+# Temporary files
+*.tmp
+temp/
+
