@@ -1,0 +1,44 @@
+{
+  "name": "echoveil",
+  "version": "0.1.0",
+  "description": "Privacy-Preserving ZK Reputation Layer for Web3",
+  "main": "index.js",
+  "scripts": {
+    "compile": "forge build",
+    "test": "forge test",
+    "test:coverage": "forge coverage",
+    "deploy:local": "forge script scripts/Deploy.s.sol --fork-url http://localhost:8545 --broadcast",
+    "deploy:polygon": "forge script scripts/Deploy.s.sol --rpc-url $POLYGON_ZKEVM_RPC_URL --broadcast --verify",
+    "lint": "solhint 'contracts/**/*.sol'",
+    "format": "forge fmt",
+    "circuit:compile": "cd circuits && ./compile.sh",
+    "circuit:test": "cd circuits && mocha",
+    "slither": "slither ."
+  },
+  "keywords": [
+    "zero-knowledge",
+    "zkp",
+    "reputation",
+    "privacy",
+    "polygon",
+    "zksync",
+    "web3",
+    "blockchain",
+    "sybil-resistance"
+  ],
+  "author": "EchoVeil Contributors",
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "circom": "^2.1.6",
+    "snarkjs": "^0.7.0",
+    "solhint": "^4.0.0",
+    "prettier": "^3.0.0",
+    "prettier-plugin-solidity": "^1.2.0"
+  },
+  "dependencies": {
+    "ethers": "^6.9.0",
+    "dotenv": "^16.3.1"
+  }
+}
+
