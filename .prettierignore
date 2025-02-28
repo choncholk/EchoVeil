@@ -1,0 +1,9 @@
+node_modules/
+out/
+cache/
+artifacts/
+typechain/
+coverage/
+*.env
+*.log
+
