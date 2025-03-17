@@ -1,0 +1,15 @@
+name: Security
+
+on: [push, pull_request]
+
+jobs:
+  slither:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Slither
+        uses: crytic/slither-action@v0.3.0
+        with:
+          sarif: results.sarif
+          fail-on: none
+
