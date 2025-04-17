@@ -311,3 +311,4 @@ For security-related inquiries:
 **Last Updated**: December 2024  
 **Version**: 0.1.0
 
+Security considerations documented
