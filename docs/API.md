@@ -541,3 +541,4 @@ event TransactionSubmitted(
 | `CIRCUIT_VERSION` | 1 | Current circuit version |
 | `MAX_HISTORICAL_EPOCHS` | 100 | Maximum stored historical epochs |
 
+API enhancements
