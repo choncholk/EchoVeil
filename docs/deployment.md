@@ -23,3 +23,4 @@ forge script scripts/Deploy.s.sol --rpc-url $TESTNET_RPC --broadcast
 ./scripts/verify_contracts.sh
 ```
 
+Deployment checklist
