@@ -300,3 +300,4 @@ Feel free to reach out:
 
 Thank you for contributing to EchoVeil! 🎉
 
+Contributing guidelines update
