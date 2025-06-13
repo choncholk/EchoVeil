@@ -16,3 +16,4 @@ Thank you to all the contributors who have helped build EchoVeil!
 
 Contributions welcome! See CONTRIBUTING.md
 
+Contributors update
