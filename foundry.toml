@@ -38,3 +38,4 @@ localhost = "http://localhost:8545"
 polygon_zkevm = { key = "${POLYGONSCAN_API_KEY}" }
 zksync = { key = "${ZKSYNC_EXPLORER_API_KEY}" }
 
+Foundry config update
