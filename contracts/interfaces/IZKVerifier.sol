@@ -76,3 +76,4 @@ interface IZKVerifier {
     function getVerifyingKeyHash() external view returns (bytes32);
 }
 
+# ZKVerifier interface polish
