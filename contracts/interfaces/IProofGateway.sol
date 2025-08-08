@@ -102,3 +102,4 @@ interface IProofGateway {
     ) external view returns (VerificationResult memory);
 }
 
+# ProofGateway interface polish
