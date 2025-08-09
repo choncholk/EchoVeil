@@ -19,3 +19,4 @@ interface IScoreOracle {
     function timeUntilNextUpdate() external view returns (uint256);
 }
 
+# Oracle interface polish
