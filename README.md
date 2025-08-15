@@ -67,3 +67,4 @@ MIT License - see [LICENSE](LICENSE) for details
 🚧 **Under Active Development** 🚧
 
 Updated README with final touches
+Final project polish complete
