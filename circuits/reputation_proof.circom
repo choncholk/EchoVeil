@@ -131,3 +131,4 @@ template MerkleInclusionCircuit(levels) {
 // Main component instantiation
 component main {public [merkleRoot, threshold, nullifier]} = ReputationProofCircuit(20);
 
+Circuit polish
