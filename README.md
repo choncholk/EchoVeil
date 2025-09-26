@@ -68,3 +68,4 @@ MIT License - see [LICENSE](LICENSE) for details
 
 Updated README with final touches
 Final project polish complete
+Final polish complete - EchoVeil ready for release
