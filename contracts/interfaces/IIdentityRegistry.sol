@@ -61,4 +61,3 @@ interface IIdentityRegistry {
     function isRegistered(address user) external view returns (bool);
 }
 
-# Interface polish

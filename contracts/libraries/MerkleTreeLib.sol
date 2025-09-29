@@ -197,4 +197,3 @@ library MerkleTreeLib {
     }
 }
 
-// MerkleTree optimization

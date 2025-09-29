@@ -64,4 +64,3 @@ echo "1. Copy Verifier.sol to contracts/core/"
 echo "2. Update ZKVerifier contract to use generated verifier"
 echo "3. Test proof generation and verification"
 
-Script polish

@@ -22,4 +22,3 @@
 
 **Timelock**: Delay mechanism for sensitive operations.
 
-Glossary updates

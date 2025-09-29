@@ -68,4 +68,3 @@ interface IReputationCore {
     function advanceEpoch() external;
 }
 
-# Interface updates

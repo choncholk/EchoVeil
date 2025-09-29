@@ -124,4 +124,3 @@ contract IdentityRegistryTest is Test {
     }
 }
 
-Test polish

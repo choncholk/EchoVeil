@@ -281,4 +281,3 @@ await dapp.claimAirdrop(tx.nullifier);
 - [Merkle Tree Proofs](https://ethereum.org/en/developers/tutorials/merkle-proofs-for-offline-data-integrity/)
 - [Sismo Protocol](https://docs.sismo.io/)
 
-Architecture improvements

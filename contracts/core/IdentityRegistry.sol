@@ -116,4 +116,3 @@ contract IdentityRegistry is IIdentityRegistry {
     }
 }
 
-// Identity registry optimization

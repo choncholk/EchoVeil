@@ -192,4 +192,3 @@ contract ProofGateway is IProofGateway {
     }
 }
 
-// Gas optimization

@@ -170,4 +170,3 @@ contract ReputationCore is IReputationCore {
     }
 }
 
-// Cache optimization

@@ -27,4 +27,3 @@ All notable changes to this project will be documented in this file.
 [Unreleased]: https://github.com/choncholk/EchoVeil/compare/v0.1.0...HEAD
 [0.1.0]: https://github.com/choncholk/EchoVeil/releases/tag/v0.1.0
 
-Changelog updates

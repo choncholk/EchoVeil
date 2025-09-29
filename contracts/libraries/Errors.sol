@@ -67,4 +67,3 @@ library Errors {
     error OperationNotAllowed();
 }
 
-// Error handling improvements

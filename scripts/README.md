@@ -15,4 +15,3 @@ Utility scripts for EchoVeil development and deployment.
 - `gas_report.sh` - Gas usage report
 - `clean.sh` - Clean build artifacts
 
-# Final scripts polish

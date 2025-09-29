@@ -206,4 +206,3 @@ if (require.main === module) {
 
 module.exports = { MerkleTree };
 
-Merkle tree script polish

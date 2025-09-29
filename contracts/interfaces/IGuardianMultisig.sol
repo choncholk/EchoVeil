@@ -10,4 +10,3 @@ interface IGuardianMultisig {
     function isGuardian(address account) external view returns (bool);
 }
 
-# Multisig interface polish

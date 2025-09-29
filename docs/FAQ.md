@@ -193,4 +193,3 @@ Absolutely! Check out our [Contributing Guide](../CONTRIBUTING.md) to get starte
 
 **Have more questions?** Join our [Discord](https://discord.gg/echoveil) or check our [Documentation](https://docs.echoveil.io).
 
-Additional FAQs

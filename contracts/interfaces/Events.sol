@@ -10,4 +10,3 @@ library Events {
     event EligibilityVerified(address indexed user, bool success, bytes32 indexed nullifier, uint256 timestamp);
 }
 
-// Events update

@@ -234,4 +234,3 @@ contract ScoreOracle {
     }
 }
 
-// Oracle improvements

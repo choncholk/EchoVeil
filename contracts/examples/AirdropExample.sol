@@ -107,4 +107,3 @@ contract AirdropExample {
     }
 }
 
-// Example updates

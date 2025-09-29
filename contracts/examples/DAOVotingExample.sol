@@ -247,4 +247,3 @@ contract DAOVotingExample {
     }
 }
 
-// DAO example enhancements

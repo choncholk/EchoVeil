@@ -24,4 +24,3 @@ forge test --gas-report
 forge test --fuzz-runs 10000
 ```
 
-Testing best practices

@@ -238,4 +238,3 @@ module.exports = {
     verifyProof
 };
 
-Proof generation polish

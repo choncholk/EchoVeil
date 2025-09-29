@@ -145,4 +145,3 @@ contract ZKVerifier is IZKVerifier {
     }
 }
 
-// Performance improvements

@@ -17,4 +17,3 @@ forge test
 - `ScoreOracle.t.sol` - Oracle tests
 - `GuardianMultisig.t.sol` - Governance tests
 
-# Final test updates

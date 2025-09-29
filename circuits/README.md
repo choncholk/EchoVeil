@@ -18,4 +18,3 @@ This directory contains the zero-knowledge circuits for EchoVeil.
 mocha test/
 ```
 
-# Final circuit docs

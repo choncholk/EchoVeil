@@ -169,4 +169,3 @@ contract ZKVerifierTest is Test {
     }
 }
 
-ZKVerifier test polish

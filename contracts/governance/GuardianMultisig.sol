@@ -267,4 +267,3 @@ contract GuardianMultisig {
     receive() external payable {}
 }
 
-// Multisig enhancements

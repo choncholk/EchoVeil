@@ -19,4 +19,3 @@ Instances of abusive behavior may be reported to security@echoveil.io
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
 
-CoC update
